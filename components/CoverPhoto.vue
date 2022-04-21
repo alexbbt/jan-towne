@@ -5,8 +5,8 @@
       class="cover"
     >
       <progressive-background
-        src="/images/full-size/banner.jpeg"
-        placeholder="/images/placeholder/banner.jpeg"
+        src="/jan-towne/images/full-size/banner.jpeg"
+        placeholder="/jan-towne/images/placeholder/banner.jpeg"
       />
     </div>
   </div>
