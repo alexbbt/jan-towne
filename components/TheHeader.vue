@@ -11,9 +11,11 @@
         </h1>
 
         <div class="flex">
-          <div class="w-24">
+          <div class="w-32">
             <ProgressiveImage
-              src="orange-gerbera-daisy.png"
+              src="pink-gerbera-daisy-left.png"
+              skip-placeholder
+              aspect-ratio="0.71"
             />
           </div>
           <h2 class="text-4xl h-24 text-center flex-1" style="line-height: 6rem;">
@@ -21,7 +23,9 @@
           </h2>
           <div class="w-32">
             <ProgressiveImage
-              src="fuschia-gerbera-daisy.png"
+              src="pink-gerbera-daisy-right.png"
+              skip-placeholder
+              aspect-ratio="0.71"
             />
           </div>
         </div>

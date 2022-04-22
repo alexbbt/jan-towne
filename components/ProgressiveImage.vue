@@ -2,7 +2,8 @@
   <client-only>
     <progressive-img
       :src="'/jan-towne/images/full-size/' + src"
-      :placeholder="'/jan-towne/images/placeholder/' + src"
+      :placeholder="skipPlaceholder || '/jan-towne/images/placeholder/' + src"
+      :aspect-ratio="aspectRatio"
     />
   </client-only>
 </template>
@@ -15,6 +16,14 @@ export default {
     src: {
       type: String,
       required: true,
+    },
+    skipPlaceholder: {
+      type: Boolean,
+      default: false,
+    },
+    aspectRatio: {
+      type: String,
+      default: '',
     },
   },
 };
