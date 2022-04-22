@@ -1,9 +1,6 @@
 <template>
   <div>
-    <div
-      ref="cover"
-      class="cover"
-    >
+    <div class="cover">
       <client-only>
         <progressive-background
           src="/jan-towne/images/full-size/banner.jpeg"
@@ -22,7 +19,7 @@ export default {
 
 <style>
   .cover .progressive-background {
-    max-height: 800px;
+    max-height: 500px;
   }
 
   .cover .progressive-background-image {
