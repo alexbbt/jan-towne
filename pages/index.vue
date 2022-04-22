@@ -36,7 +36,8 @@
           class="absolute top-0 left-0 w-full h-full"
           src="https://www.youtube.com/embed/cHYCxIDAW9k"
           title="YouTube video player"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allow="accelerometer; autoplay; clipboard-write;
+          encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         />
       </div>
@@ -48,9 +49,9 @@
       </h2>
 
       <p class="my-4">
-        Janet (Jan) Arlene Peterson Towne, known to all as Jan, was born September 25, 1944, in Quincy,
-        Massachusetts.  She passed away at home in her sleep surrounded by her loved ones on
-        January 26, 2022, after a long fight with COVID-19 pneumonia...
+        Janet (Jan) Arlene Peterson Towne, known to all as Jan, was born September 25, 1944,
+        in Quincy, Massachusetts.  She passed away at home in her sleep surrounded by her
+        loved ones on January 26, 2022, after a long fight with COVID-19 pneumonia...
       </p>
       <GreenButton to="/obituary">
         Read More
@@ -61,6 +62,6 @@
 
 <script>
 export default {
-  name: 'IndexPage'
-}
+  name: 'IndexPage',
+};
 </script>

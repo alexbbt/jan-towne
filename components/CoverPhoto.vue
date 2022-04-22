@@ -13,8 +13,8 @@
 
 <script>
 export default {
-  name: 'CoverPhoto'
-}
+  name: 'CoverPhoto',
+};
 </script>
 
 <style>

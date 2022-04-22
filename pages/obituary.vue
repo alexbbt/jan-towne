@@ -25,18 +25,19 @@
       </p>
 
       <p class="my-4">
-        Jan was the third of five children. She was born to Donald and Florence (Miller) Peterson.
-        She graduated from North Quincy High.  Shortly after high school, she met and married Jeffrey
-        Wheeler Towne also from Quincy. Then their 57 year adventure began.  They started their life
-        together in Quincy Massachusetts and moved to Colorado Springs in 1970. After 8 years in
-        Colorado Springs, they moved to Heidelberg Germany.  How she enjoyed their 8 years in Germany!
-        They traveled all over Europe with their sons.  They moved back to the states to allow their
-        youngest son Greg to attend an American high school.   After 7 years in Huntington Beach, CA
-        they got to return to Germany for Jeff’s work again.  Jan, a fantastic hostess, loved having
-        people visit them in Germany so they could take them on tours.  The lure of time with
-        grandchildren brought them back to the US in 1997.  Jeff decided to retire at 55 so they
-        could travel while they were still young and healthy enough to enjoy it.  They moved to
-        their house in Colorado Springs in 1999.
+        Jan was the third of five children. She was born to Donald and Florence (Miller)
+        Peterson. She graduated from North Quincy High.  Shortly after high school, she
+        met and married  Jeffrey Wheeler Towne also from Quincy. Then their 57 year adventure
+        began.  They started their life together in Quincy Massachusetts and moved to
+        Colorado Springs in 1970. After 8 years in Colorado Springs, they moved to Heidelberg
+        Germany.  How she enjoyed their 8 years in Germany! They traveled all over Europe
+        with their sons.  They moved back to the states to allow their youngest son Greg
+        to attend an American high school.   After 7 years in Huntington Beach, CA they
+        got to return to Germany for Jeff’s work again.  Jan, a fantastic hostess, loved
+        having people visit them in Germany so they could take them on tours.  The lure
+        of time with grandchildren brought them back to the US in 1997.  Jeff decided to
+        retire at 55 so they could travel while they were still young and healthy enough
+        to enjoy it.  They moved to their house in Colorado Springs in 1999.
       </p>
 
       <p class="my-4">
@@ -92,6 +93,10 @@
 
 <script>
 export default {
-  name: 'ObituaryPage'
-}
+  name: 'ObituaryPage',
+
+  head: {
+    title: 'Janet (Jan) Arlene Peterson Towne - Obituary',
+  },
+};
 </script>
