@@ -15,11 +15,12 @@
         RSVP at the link bellow so that we can ensure space to accommodate everyone.
       </p>
 
-      <a
-        class="focus:outline-none text-white bg-lime-700 hover:bg-lime-800 focus:ring-4 focus:ring-lime-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-lime-600 dark:hover:bg-lime-700 dark:focus:ring-lime-800"
-        href="https://google.com"
-        target="_blank"
-      >RSVP for Service</a>
+      <GreenButton
+        to="https://google.com"
+        external
+      >
+        RSVP for Service
+      </GreenButton>
     </section>
 
     <section class="p-4 rounded-md bg-white my-4">
@@ -35,7 +36,6 @@
           class="absolute top-0 left-0 w-full h-full"
           src="https://www.youtube.com/embed/cHYCxIDAW9k"
           title="YouTube video player"
-          frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         />
@@ -52,12 +52,9 @@
         Massachusetts.  She passed away at home in her sleep surrounded by her loved ones on
         January 26, 2022, after a long fight with COVID-19 pneumonia...
       </p>
-      <nuxt-link
-        class="focus:outline-none text-white bg-lime-700 hover:bg-lime-800 focus:ring-4 focus:ring-lime-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-lime-600 dark:hover:bg-lime-700 dark:focus:ring-lime-800"
-        to="/obituary"
-      >
+      <GreenButton to="/obituary">
         Read More
-      </nuxt-link>
+      </GreenButton>
     </section>
   </div>
 </template>
