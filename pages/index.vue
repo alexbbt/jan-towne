@@ -21,7 +21,7 @@
         to="https://google.com"
         external
       >
-        RSVP for Service
+        RSVP
       </GreenButton>
     </section>
 
