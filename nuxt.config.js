@@ -24,7 +24,7 @@ export default {
           + 'January 26, 2022, after a long fight with COVID-19 pneumonia.',
       },
       { property: 'og:title', content: 'Janet (Jan) Arlene Peterson Towne - Memorial' },
-      { property: 'og:image', content: '/images/social.jpeg' },
+      { property: 'og:image', content: 'https://alexbbt.github.io/jan-towne/images/social.jpeg' },
       { property: 'og:image:width', content: '1024' },
       { property: 'og:image:height', content: '536' },
       { property: 'og:url', content: 'https://alexbbt.github.io/jan-towne/' },
