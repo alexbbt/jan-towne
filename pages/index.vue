@@ -5,14 +5,16 @@
         Celebration of Life
       </h2>
 
-      <p class="text-l my-4">
-        June 25, 2022 at 3 pm in Colorado Springs, CO.
+      <p class="text-l my-4 cinzel">
+        Saturday, June 25, 2022 at 3 pm <br>
+        Colorado Springs, CO. <br>
+        Venue to be determined
       </p>
 
       <p class="my-4">
         The family will be holding a Celebration of Life service on June 25th, 2022
         in Colorado Springs, Co. We are asking for those who wish to attend to please
-        RSVP at the link bellow so that we can ensure space to accommodate everyone.
+        RSVP at the link below so that we can ensure space to accommodate everyone.
       </p>
 
       <GreenButton

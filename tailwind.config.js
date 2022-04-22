@@ -8,6 +8,9 @@ module.exports = {
         lg: '1024px',
       },
     },
+    borderWidth: {
+      big: '28px',
+    },
     extend: {},
   },
   plugins: [],
