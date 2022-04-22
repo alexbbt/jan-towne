@@ -4,12 +4,12 @@
       ref="cover"
       class="cover"
     >
-      <no-ssr>
+      <client-only>
         <progressive-background
           src="/jan-towne/images/full-size/banner.jpeg"
           placeholder="/jan-towne/images/placeholder/banner.jpeg"
         />
-      </no-ssr>
+      </client-only>
     </div>
   </div>
 </template>
