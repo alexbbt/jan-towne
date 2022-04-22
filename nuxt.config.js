@@ -14,9 +14,8 @@ export default {
     },
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
@@ -24,6 +23,9 @@ export default {
           + 'Massachusetts.  She passed away at home in her sleep surrounded by her loved ones on '
           + 'January 26, 2022, after a long fight with COVID-19 pneumonia.',
       },
+      { property: 'og:title', content: 'Janet (Jan) Arlene Peterson Towne - Memorial' },
+      { property: 'og:image', content: '/images/social.jpeg' },
+      { property: 'og:url', content: 'https://alexbbt.github.io/jan-towne' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/jan-towne/favicon.ico' },
