@@ -6,7 +6,7 @@
       </h2>
 
       <p class="text-l my-4">
-        June 25, 2022 in Colorado Springs, CO.
+        June 25, 2022 at 3 pm in Colorado Springs, CO.
       </p>
 
       <p class="my-4">
@@ -48,7 +48,7 @@
       </h2>
 
       <p class="my-4">
-        Janet Arlene (Peterson) Towne, known to all as Jan, was born September 25, 1944, in Quincy,
+        Janet (Jan) Arlene Peterson Towne, known to all as Jan, was born September 25, 1944, in Quincy,
         Massachusetts.  She passed away at home in her sleep surrounded by her loved ones on
         January 26, 2022, after a long fight with COVID-19 pneumonia...
       </p>
