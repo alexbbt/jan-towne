@@ -1,3 +1,10 @@
+const title = 'Janet (Jan) Arlene Peterson Towne - Memorial';
+const description = `
+Janet Arlene (Peterson) Towne, known to all as Jan, was born September 25, 1944, in Quincy,
+Massachusetts.  She passed away at home in her sleep surrounded by her loved ones on
+January 26, 2022, after a long fight with COVID-19 pneumonia.
+`;
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -8,7 +15,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Janet (Jan) Arlene Peterson Towne - Memorial',
+    title,
     htmlAttrs: {
       lang: 'en',
     },
@@ -16,18 +23,14 @@ export default {
       { charset: 'utf-8' },
       { name: 'format-detection', content: 'telephone=no' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      {
-        hid: 'description',
-        name: 'description',
-        content: ' Janet Arlene (Peterson) Towne, known to all as Jan, was born September 25, 1944, in Quincy, '
-          + 'Massachusetts.  She passed away at home in her sleep surrounded by her loved ones on '
-          + 'January 26, 2022, after a long fight with COVID-19 pneumonia.',
-      },
-      { property: 'og:title', content: 'Janet (Jan) Arlene Peterson Towne - Memorial' },
+      { hid: 'description', name: 'description', content: description },
+      { property: 'og:title', content: title },
+      { property: 'og:description', content: description },
       { property: 'og:image', content: 'https://alexbbt.github.io/jan-towne/images/social.jpeg' },
       { property: 'og:image:width', content: '1024' },
       { property: 'og:image:height', content: '536' },
       { property: 'og:url', content: 'https://alexbbt.github.io/jan-towne/' },
+      { property: 'og:type', content: 'website' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/jan-towne/favicon.ico' },
