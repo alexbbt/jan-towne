@@ -17,11 +17,11 @@
           />
         </div>
 
-        <h2 class="text-5xl text-center">
+        <h1 class="text-5xl text-center">
           Janet A. Towne
           <br>
           <small>Memorial</small>
-        </h2>
+        </h1>
       </div>
     </nuxt-link>
   </header>

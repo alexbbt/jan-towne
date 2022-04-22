@@ -3,7 +3,7 @@
     <div class="container mx-auto">
       <TheHeader />
 
-      <div class="p-4 rounded-md bg-white mb-12">
+      <div class="mb-12">
         <Nuxt />
       </div>
     </div>
