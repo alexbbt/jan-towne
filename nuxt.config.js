@@ -29,8 +29,10 @@ export default {
       { property: 'og:image', content: 'https://alexbbt.github.io/jan-towne/images/social.jpeg' },
       { property: 'og:image:width', content: '1024' },
       { property: 'og:image:height', content: '536' },
+      { property: 'og:image:alt', content: 'Jan and Jeff with their three sons' },
       { property: 'og:url', content: 'https://alexbbt.github.io/jan-towne/' },
       { property: 'og:type', content: 'website' },
+      { property: 'twitter:card', content: 'summary' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/jan-towne/favicon.ico' },
