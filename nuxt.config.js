@@ -25,7 +25,9 @@ export default {
       },
       { property: 'og:title', content: 'Janet (Jan) Arlene Peterson Towne - Memorial' },
       { property: 'og:image', content: '/images/social.jpeg' },
-      { property: 'og:url', content: 'https://alexbbt.github.io/jan-towne' },
+      { property: 'og:image:width', content: '1024' },
+      { property: 'og:image:height', content: '536' },
+      { property: 'og:url', content: 'https://alexbbt.github.io/jan-towne/' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/jan-towne/favicon.ico' },

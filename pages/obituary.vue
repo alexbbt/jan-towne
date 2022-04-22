@@ -98,7 +98,7 @@ export default {
   head: {
     title: 'Janet (Jan) Arlene Peterson Towne - Obituary',
     meta: [
-      { property: 'og:url', content: 'https://alexbbt.github.io/jan-towne/obituary' },
+      { property: 'og:url', content: 'https://alexbbt.github.io/jan-towne/obituary/' },
     ],
   },
 };
