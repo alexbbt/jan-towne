@@ -4,3 +4,8 @@ div#__nuxt,
 #app {
   min-height: 100vh;
 }
+
+body {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 240 138 / var(--tw-bg-opacity));
+}
