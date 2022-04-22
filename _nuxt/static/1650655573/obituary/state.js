@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fjan-towne\u002F_nuxt\u002Fstatic\u002F1650655573",layout:"default",error:a,serverRendered:true,routePath:"\u002Fobituary",config:{_app:{basePath:"\u002Fjan-towne\u002F",assetsPath:"\u002Fjan-towne\u002F_nuxt\u002F",cdnURL:a}}}}(null));
