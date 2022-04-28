@@ -18,7 +18,7 @@
       </p>
 
       <GreenButton
-        to="https://google.com"
+        to="https://docs.google.com/forms/d/e/1FAIpQLSf4lZXvx89opr29dOWoYd_re2OY8QHRttlM6bvLSWFFG7V3pg/viewform"
         external
       >
         RSVP
