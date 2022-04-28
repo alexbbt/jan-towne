@@ -3,8 +3,8 @@
     <div class="cover">
       <client-only>
         <progressive-background
-          src="/jan-towne/images/full-size/banner.jpeg"
-          placeholder="/jan-towne/images/placeholder/banner.jpeg"
+          src="/images/full-size/banner.jpeg"
+          placeholder="/images/placeholder/banner.jpeg"
           alt="Jan and Jeff with their three sons"
         />
       </client-only>

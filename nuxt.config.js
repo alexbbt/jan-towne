@@ -9,10 +9,6 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
-  router: {
-    base: '/jan-towne/',
-  },
-
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title,
@@ -26,24 +22,24 @@ export default {
       { hid: 'description', name: 'description', content: description },
       { property: 'og:title', content: title },
       { property: 'og:description', content: description },
-      { property: 'og:image', content: 'https://alexbbt.github.io/jan-towne/images/social.jpeg' },
+      { property: 'og:image', content: 'https://jantowne.bell-towne.com/images/social.jpeg' },
       { property: 'og:image:width', content: '1024' },
       { property: 'og:image:height', content: '536' },
       { property: 'og:image:alt', content: 'Jan and Jeff with their three sons' },
-      { property: 'og:url', content: 'https://alexbbt.github.io/jan-towne/' },
+      { property: 'og:url', content: 'https://jantowne.bell-towne.com/' },
       { property: 'og:type', content: 'website' },
       { property: 'twitter:card', content: 'summary' },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/jan-towne/favicon.ico' },
-      { rel: 'apple-touch-icon', sizes: '180x180', href: '/jan-towne/apple-touch-icon.png' },
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' },
       {
-        rel: 'icon', type: 'image/png', sizes: '32x32', href: '/jan-towne/favicon-32x32.png',
+        rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png',
       },
       {
-        rel: 'icon', type: 'image/png', sizes: '16x16', href: '/jan-towne/favicon-16x16.png',
+        rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png',
       },
-      { rel: 'manifest', href: '/jan-towne/site.webmanifest' },
+      { rel: 'manifest', href: '/site.webmanifest' },
     ],
   },
 

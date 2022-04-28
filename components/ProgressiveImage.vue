@@ -1,8 +1,8 @@
 <template>
   <client-only>
     <progressive-img
-      :src="'/jan-towne/images/full-size/' + src"
-      :placeholder="skipPlaceholder || '/jan-towne/images/placeholder/' + src"
+      :src="'/images/full-size/' + src"
+      :placeholder="skipPlaceholder || '/images/placeholder/' + src"
       :aspect-ratio="aspectRatio"
     />
   </client-only>
