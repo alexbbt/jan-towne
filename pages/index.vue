@@ -8,7 +8,8 @@
       <p class="text-l my-4 cinzel">
         Saturday, June 25, 2022 at 3 pm <br>
         Colorado Springs, CO. <br>
-        Venue to be determined
+        Venue to be determined <br>
+        Dress code: casual attire
       </p>
 
       <p class="my-4">
