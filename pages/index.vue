@@ -6,16 +6,34 @@
       </h2>
 
       <p class="text-l my-4 cinzel">
-        Saturday, June 25, 2022 at 3 pm <br>
+        Janet (Jan) Arlene Peterson Towne <br>
+        Saturday, June 25, 2022 at 3 pm. <br>
+      </p>
+
+      <p class="text-l my-4 cinzel">
+        Sunnyside Christian Church <br>
+        2025 N. Murray Blvd <br>
         Colorado Springs, CO. <br>
-        Venue to be determined <br>
+      </p>
+
+      <p class="text-l my-4 cinzel">
         Dress code: casual attire
       </p>
 
       <p class="my-4">
-        The family will be holding a Celebration of Life service on June 25th, 2022
-        in Colorado Springs, Co. We are asking for those who wish to attend to please
-        RSVP at the link below so that we can ensure space to accommodate everyone.
+        The family will be holding a Celebration of Life service on June 25th, 2022 at
+        the Sunnyside Christian Church in Colorado Springs, Co. We are asking for those
+        who wish to attend to please RSVP at the link below so that we can ensure space
+        to accommodate everyone. The Celebration will be held in a function room on the
+        lower level with direct access to the southside parking lot. Casual attire and
+        bring a story to share about Jan. If you don’t want to read it or speak aloud you
+        can give it to Jennifer, Greg’s wife and she will read them for you.
+      </p>
+
+      <p class="my-4">
+        Following the event, there will be a potluck dinner in the same room.  For those
+        interested, please bring a dish.  We will be supplying bottles of water. The
+        room is connected to the church kitchen.
       </p>
 
       <GreenButton
@@ -24,6 +42,11 @@
       >
         RSVP
       </GreenButton>
+
+      <p class="my-4">
+        If you cannot join in the celebration and would like to send a personal message
+        please send it to <a href="mailto:jeffjant@gmail.com">jeffjant@gmail.com</a>.
+      </p>
     </section>
 
     <section class="p-4 rounded-md bg-white my-4">
